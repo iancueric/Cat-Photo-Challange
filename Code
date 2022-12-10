@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <meta charset="utf-8" />
+    <head>
+        <h1>CatAppPhoto</h1>
+            <h2><a href="https://freecatphotoapp.com"> Cat Photos</a></h2>
+        <!--Add link to cat photos-->
+        <p>Click here for more cat photos</p>
+        <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg"
+         alt="A cute orange cat lying on its back">
+         <h3>Things cate love</h3>
+         <ul>
+            <li>Milk</li>
+            <li>Lasagna</li>
+         </ul>
+         <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/lasagna.jpg"
+          alt="A slice of lasagna on a plate">
+          <p>A slice of lasanga on a plate</p>
+          <p>Cats <b>love</b> lasagna!</p>
+
+          <h3>Top 3 things cats hate</h3>
+          <li>Thunder</li>
+          <li>Dogs</li>
+          <li>Baths</li>
+    
+    </head>
+    
+</html>
